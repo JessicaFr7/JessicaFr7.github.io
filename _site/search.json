@@ -1,0 +1,23 @@
+[
+  
+    {
+      "title"       : "Cooking in Video Games",
+      "category"    : "",
+      "tags"        : "video games, cooking, food, stats",
+      "url"         : "./deep-q-learning-tic-tac-toe.html",
+      "date"        : "2022-01-08 22:14:20 +0100",
+      "description" : "Cooking has been a valuable feature in various video games. The effects, however, vary drastically.",
+      "content"     : "BackgroundFrom survial to horror to action adventure, cooking with various ingredients is often the key to regain health and energy.test"
+    } ,
+  
+    {
+      "title"       : "Cooking can be easy",
+      "category"    : "",
+      "tags"        : "food, cooking, kitchen",
+      "url"         : "./single-neuron-perceptron.html",
+      "date"        : "2022-01-05 20:32:20 +0100",
+      "description" : "The only essential thing is a working kitchen machine.",
+      "content"     : "Cooking can be easyWith the right equipmentAnd this is how to do it:All you need is a working kitchen machine!"
+    } 
+  
+]

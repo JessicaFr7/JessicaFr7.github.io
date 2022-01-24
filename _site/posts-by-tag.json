@@ -1,0 +1,58 @@
+
+
+[   
+      
+  {
+  "tag" : "cooking",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html",
+      
+      "./single-neuron-perceptron.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "food",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html",
+      
+      "./single-neuron-perceptron.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "kitchen",
+  "posts" : [
+      
+      "./single-neuron-perceptron.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "stats",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "video games",
+  "posts" : [
+      
+      "./deep-q-learning-tic-tac-toe.html"
+      
+    ]
+  } 
+    
+]
