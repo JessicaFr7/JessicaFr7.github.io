@@ -5,7 +5,7 @@ show_date: true
 title:  Cooking can be easy
 date:   2021-01-25 13:32:20 -0600
 description: It really is not difficult
-img: posts/20210125/Perceptron.jpg 
+img:
 tags: [food, cooking, eating]
 author: Jessica
 github: 
